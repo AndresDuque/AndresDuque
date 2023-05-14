@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @AndresDuque
-- 👀 I’m interested in life sciences and software development
-- 🌱 I’m currently learning how to manage side projects with my actual job
-- 📫 How to reach me? You can visit my [website](https://aduque.com/) and send me an email. I normally answer quickly.
+# Hello, I'm Andres Duque 👋
 
-<!---
-AndresDuque/AndresDuque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a highly experienced software engineer with almost 10 years of experience developing medical devices. I'm passionate about using technology to improve healthcare outcomes, and I enjoy working on projects that have a positive impact on people's lives.
+
+## Skills and Expertise
+- Programming Languages: C++, python, kotlin/Java and more
+- Medical Device Development
+- Software Design and Architecture
+- Agile Methodologies
+- Verification and validation activities
+
+## Projects
+Here are some of the projects I've worked on:
+- Intuitive Plan: Worked as a backend developer, database developer, software engineer.
+- Cellularis discovery: Worked as a tech lead, software architecture, software design and software engineer.
+
+## Personal projects
+- Photostory
+- Mealy
+- Healthician
+
+## Contact
+If you'd like to get in touch with me, you can check my website https://aduque.com
+
+Thanks for checking out my profile!
