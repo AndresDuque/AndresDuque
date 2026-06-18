@@ -3,7 +3,7 @@
 I'm a highly experienced software engineer with almost 10 years of experience developing medical devices. I'm passionate about using technology to improve healthcare outcomes, and I enjoy working on projects that have a positive impact on people's lives.
 
 ## Skills and Expertise
-- Programming Languages: C++, python, kotlin/Java and more
+- Programming Languages: Modern C++, Rust (Tauri + Svelte), Python, Kotlin/Java, SQL, Postgres.
 - Medical Device Development
 - Software Design and Architecture
 - Agile Methodologies
@@ -20,6 +20,4 @@ Here are some of the projects I've worked on:
 - Healthician
 
 ## Contact
-If you'd like to get in touch with me, you can check my website https://aduque.com
-
-Thanks for checking out my profile!
+If you'd like to get in touch with me, you can check my [linkedin](https://www.linkedin.com/in/jandresduque/)
